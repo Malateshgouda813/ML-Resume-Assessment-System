@@ -11,7 +11,7 @@ The system analyzes resumes or user-entered skills to:
 * Analyze real-time job market trends
 
 # Homepage
-![Home Page]()
+![Home Page](https://github.com/Malateshgouda813/ML-Resume-Assessment-System/blob/36cec5ddbb0405db75fbf28fa5dd9ec8a0de366a/out_put.png)
 
 
 # Features
