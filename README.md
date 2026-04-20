@@ -10,6 +10,9 @@ The system analyzes resumes or user-entered skills to:
 * Provide ATS improvement suggestions
 * Analyze real-time job market trends
 
+# Homepage
+![Home Page]()
+
 
 # Features
 
