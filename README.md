@@ -1,6 +1,6 @@
-#  Job Recommendation & Resume Analyzer
+#  ML-Resume-Assessment-System
 
-An ** Job Recommendation and Resume Analysis system** built using Python, Machine Learning, and Streamlit.
+An **ML-Resume-Assessment-System** built using Python, Machine Learning, and Streamlit.
 
 The system analyzes resumes or user-entered skills to:
 
@@ -104,8 +104,8 @@ Job-Recommendation-System
 ├── main.py
 ├── requirements.txt
 ├── README.md
-└── dataset
-      └── Final_Specialized_Dataset.csv and Final_Fixed_Dataset.csv
+└── Final_Specialized_Dataset.csv
+└── Final_Fixed_Dataset.csv
 ```
 
 ---
